@@ -430,7 +430,7 @@ def main():
     input("Press Enter to Continue...")
 
     banner()
-    slow("                         ")
+    slow(" CREATED AND MODIFIED BY MR SMILE CONTACT ON TELEGRAM FOR MORE TOOLS 🌎")
     slow("    [00] Exit This Tool ")
     slow("    [01] About This Tool ")
     slow("    [02] Update This Tool ")
@@ -507,3 +507,4 @@ if __name__ == "__main__":
       time.sleep(2)
       slow(f"")
       os.sys.exit()
+
