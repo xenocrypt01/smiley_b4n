@@ -30,12 +30,12 @@ def aboutus():
     slow("    Tool Name      ::   WHATSAPP BANER")
     slow("    Latest Update  ::   28 - OCT - 2025")
     slow("    Youtube        ::   https://www.youtube.com/@MrSmile_modders")
-    slow(f"{white}\n")
+    slow(f"==========================================================={white}\n")
 
 
 def banner():
     os.system("cls || clear")
-    slow(f"""{pink}
+    slow(f"""{blue}
     
    __        __ _           _         ____              _   ______            _ 
 \ \      / /| |__   __ _| |_ ___  | __ )   __ _  ___| |_/ ___|  __ ___   _| |
@@ -430,8 +430,13 @@ def main():
     input("Press Enter to Continue...")
 
     banner()
-    slow(" CREATED BY MR SMILE ✅                     ")
-    
+
+  slow("    Version        ::   v[2.0]")
+    slow("    Author         ::   MR SMILE")
+    slow("    Tool Name      ::   WHATSAPP BANER")
+    slow("    Latest Update  ::   28 - OCT - 2025")
+    slow("    Youtube        ::   https://www.youtube.com/@MrSmile_modders")
+    slow(f"==========================================================={white}\n")
     
     slow("    [00] Exit This Tool ")
     slow("    [01] About This Tool ")
@@ -509,3 +514,7 @@ if __name__ == "__main__":
       time.sleep(2)
       slow(f"")
       os.sys.exit()
+
+
+
+
