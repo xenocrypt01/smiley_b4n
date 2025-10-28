@@ -431,7 +431,7 @@ def main():
 
     banner()
 
-  slow("    Version        ::   v[2.0]")
+    slow("    Version        ::   v[2.0]")
     slow("    Author         ::   MR SMILE")
     slow("    Tool Name      ::   WHATSAPP BANER")
     slow("    Latest Update  ::   28 - OCT - 2025")
