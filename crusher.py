@@ -30,7 +30,7 @@ def aboutus():
     slow("    Tool Name      ::   WHATSAPP BANER")
     slow("    Latest Update  ::   28 - OCT - 2025")
     slow("    Youtube        ::   https://www.youtube.com/@MrSmile_modders")
-    slow(f"==========================================================={white}\n")
+    slow(f"{white}\n")
 
 
 def banner():
